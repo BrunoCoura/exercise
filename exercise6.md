@@ -1,1 +1,0 @@
-This is the Exercise 6.
